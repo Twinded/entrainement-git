@@ -8,11 +8,11 @@
 <body>
 	<ul>
 		<li id="lien1">Paméla</li>
-		<li id="lien1">Loic</li>
-		<li id="lien1">Mick</li>
-		<li id="lien1">Baptiste</li>
-		<li id="lien1">Tom</li>
-		<li id="lien1">Tony</li>
+		<li id="lien2">Loic</li>
+		<li id="lien3">Mick</li>
+		<li id="lien4">Baptiste</li>
+		<li id="lien5">Tom</li>
+		<li id="lien6">Tony</li>
 	</ul>
 	
 	<div id="content"></div>
