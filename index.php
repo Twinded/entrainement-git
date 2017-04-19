@@ -16,5 +16,6 @@
 		<li id="lien6">Tony</li>
 	</ul>
 	
+	<div class="sep-content"></div>
 	<div id="content"></div>
 </body>
