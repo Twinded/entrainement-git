@@ -7,6 +7,7 @@
 
 <body>
 	<ul>
+		<li id="lien0">Thomas</li>
 		<li id="lien1">Paméla</li>
 		<li id="lien2">Loic</li>
 		<li id="lien3">Mick</li>

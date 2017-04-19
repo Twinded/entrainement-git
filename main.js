@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	$('#lien1').click(function() {
-		$('#content').load("/pamela/pamela.php")	
+	$('#lien0').click(function() {
+		$('#content').load("/thomas/thomas.php")	
 	});
 });
